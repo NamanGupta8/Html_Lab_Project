@@ -1,0 +1,125 @@
+body
+{
+  font-family: 'Open Sans', sans-serif;
+  color:#FFFFFF;
+
+    font-weight: bold;
+}
+
+.video
+{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+    z-index: -1;
+}
+.one
+{
+ position:fixed;
+  width:55%;
+  height:45%;
+  margin:141px 330px auto;
+  background: rgba(0, 0, 0, 0.5);
+ -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0.75);
+ -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+  padding: 50px;
+  border-radius: 15px;
+}
+ul
+{
+	list-type: none;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.slider{
+
+ margin: 0 auto;
+ width: 340px;
+ height: 345px;
+
+ border: 0px solid #000000;
+ border-radius:15px;
+ box-shadow: 2px 2px 4px #000000;
+
+}
+.abc
+{
+  font-size: 20px;
+  position:fixed;
+  margin: 0px 170px auto;
+  border-radius:15px;
+  width:450px;
+  height:60px;
+  margin-top: 20px;
+  background: rgba(0, 0, 0, 0.5);
+}
+.def
+{
+  font-size: 20px;
+
+  margin: 0px 170px auto;
+  border-radius:15px;
+  width:450px;
+  height:60px;
+  margin-bottom: 70px;
+  background: rgba(0, 0, 0, 0.5);
+  color:#FFFFFF;
+}
+
+::placeholder
+{
+    color: #FFFFFF;
+    opacity: 1;
+    text-align:center;
+    font-family: "Bleeding Cowboys";
+}
+
+.x
+{
+  margin: 0px 180px auto;
+  text-decoration: underline;
+  font-family:"Bleeding Cowboys";
+  font-size: 20px;
+
+}
+.y
+{
+  text-decoration: underline;
+  font-size: 20px;
+  margin: 0px 180px auto;
+  margin-top: 40px;
+
+  font-family:"Bleeding Cowboys";
+}
+.cool
+{
+  font-family: "Bleeding Cowboys";
+  margin: 0px 155px; auto;
+  border-radius:15px;
+  background: rgba(0, 0, 0, 0.5);
+  width:150px;
+  height:50px;
+  margin-top:20px;
+  color:#FFFFFF;
+  text-decoration: underline;
+  font-size: 15px;
+}
+.cool1
+{
+  font-family:"Bleeding Cowboys";
+  position:left;
+  margin: 0px 0px ;
+  border-radius:15px;
+  background: rgba(0, 0, 0, 0.5);
+  width:150px;
+  height:50px;
+  margin-top: 20px;
+  text-decoration: underline;
+  color:#FFFFFF;
+  font-size: 15px;
+}

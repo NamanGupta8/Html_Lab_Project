@@ -1,0 +1,17 @@
+body
+{
+  font-family: 'Open Sans', sans-serif;
+  color:#FFFFFF;
+
+    font-weight: bold;
+    font-family: "Bleeding Cowboys";
+}
+
+.video
+{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
